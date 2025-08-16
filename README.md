@@ -1,4 +1,4 @@
-# 📊 Proyecto 9 – Análisis de Marketing para Showz
+# 📊 Análisis de Marketing para Showz
  
 El objetivo es ayudar a optimizar los gastos de marketing de **Showz**, una empresa dedicada a la venta de entradas para eventos, mediante el análisis del comportamiento de los usuarios y la rentabilidad de las campañas publicitarias.
 
